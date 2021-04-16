@@ -1,0 +1,5 @@
+materia;10002;Laboratorio 1;1
+materia;10001;Matemáticas 1;1
+materia;10000;Ingles 1;1
+alumno;1001;López;Martín;[10002,10001,10000]
+alumno;1002;Martínez;Brenda;[10002]
